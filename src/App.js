@@ -6,7 +6,7 @@ export default() => {
   return (
     <>
     
-    <h1>sajid</h1>
+    
     <HomeImport/>
     </>
       

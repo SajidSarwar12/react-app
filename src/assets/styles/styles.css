@@ -1,0 +1,14 @@
+.background{
+    background-image:url(../images/krane.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+
+
+.container{
+    background-color: red;
+    height: 100vh;
+}
+
